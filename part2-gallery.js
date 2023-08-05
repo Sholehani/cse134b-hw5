@@ -201,8 +201,8 @@ function loadRemote() {
                     shadowRoot.appendChild(rootDiv);
                 }
             }
-            
-    customElements.define("project-card", ProjectCard);
+
+            customElements.define("project-card", ProjectCard);
         })
 
 }
